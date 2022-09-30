@@ -2,8 +2,5 @@ body {
   text-align: center;
   vh: 100vh;
   color: Crimson;
- display: flex;
-  flex-direction: coulmn;
-  align-itmes: center;
-  font-size: 150%;
+  font-size: 300%;
 }
