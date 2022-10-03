@@ -42,7 +42,7 @@ figcaption {
     text-align: center;
 
 }
-#contact {
+footer {
     margin-top: 40px;
     display: flex;
     flexdirection: row;
@@ -57,7 +57,7 @@ figcaption {
         align-items: center;
         text-align: center;
     }
-    #contact {
+    footer {
         margin-top: 40px;
         display: flex;
         flex-direction: column;
