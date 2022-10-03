@@ -49,7 +49,7 @@ footer {
     justify-content: space-evenly;
     font-size: 150%;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 580px) {
 
     #products {
         display: flex;
