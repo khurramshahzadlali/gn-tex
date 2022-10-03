@@ -1,28 +1,23 @@
-  #products {
+#products {
         display: flex;
         flex-direction: column;
         align-items: center;
         text-align: center;
     }
-    footer {
+footer {
         margin-top: 40px;
         display: flex;
         flex-direction: column;
         align-items: center;
         font-size: 200%;
     }
-  h1, h2,  p, h3{
+h1, h2,  p, h3{
         margin-bottom: 2px;
         font-size: 200%;
         text-align: center;
     }
- img { 
+img { 
    width: 240px;
    height: 240px;
-   border-radius: 90%;
-body {
-    background: conic-gradient(at 75% 75%, transparent 25%, #fafafa 0% 50%, transparent 0% 75%, #fff 0%) 0/ 4em 4em, repeating-linear-gradient(45deg, #fefefe 0 1.41px, #f0f0f0 2.83px),
-    repeating-linear-gradient(45deg, #ffe 0 1.41px, #f0efea 0 2.83px);   
-    font-family: sans-serif;
-}
+   border-radius: 50%;
 
