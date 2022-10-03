@@ -45,6 +45,7 @@ figcaption {
 #contact {
     margin-top: 40px;
     display: flex;
+    flexdirection: row;
     justify-content: space-evenly;
     font-size: 150%;
 }
