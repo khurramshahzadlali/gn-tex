@@ -48,7 +48,7 @@ figcaption {
     justify-content: space-evenly;
     font-size: 150%;
 }
- @media (max-width: 480px) and (min-width: 240px) {
+ @media (max-width: 720px) and (min-width: 240px) {
 
     #products {
         display: flex;
